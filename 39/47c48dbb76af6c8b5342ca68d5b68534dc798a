@@ -1,0 +1,25 @@
+worktree_status_test.go
+  s_18c0bc0593e2e4::t_c6040ae1cec96b 446-450
+  s_18c0bc0593e2e4::t_0d665ebad68c70 376-445,451-475
+worktree_status.go
+  s_18c0bc0593e2e4::t_c2898e62389a7d 223,229-247,253-266
+  s_18c0bc0593e2e4::t_32a3286ffede46 267-268
+submodule.go
+  s_18c0bc0593e2e4::t_82f0865e207553 106-133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3947c48dbb76af6c8b5342ca68d5b68534dc798a",
+  "prompts": {},
+  "sessions": {
+    "s_18c0bc0593e2e4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8cd87c43-501c-40b3-8109-fbfe17fccc4e",
+        "model": "default"
+      },
+      "human_author": "Ujjwal pratik <64854179+ujjwal-p@users.noreply.github.com>"
+    }
+  }
+}
