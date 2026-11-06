@@ -1,0 +1,46 @@
+storage/filesystem/dotgit/writers.go
+  s_18c0bc0593e2e4::t_f060bae3ef5dc3 42-43
+  s_18c0bc0593e2e4::t_dc84b35f2a84dc 113
+  s_18c0bc0593e2e4::t_54f15e42bb92e5 9
+  s_18c0bc0593e2e4::t_f7f2ecd0e2a346 76-91,96,99-104,106
+internal/transport/v2.go
+  s_18c0bc0593e2e4::t_a7abd534d47dda 270
+plumbing/format/packfile/progress.go
+  s_18c0bc0593e2e4::t_e2cdeae1948647 1-114
+plumbing/format/packfile/common.go
+  s_18c0bc0593e2e4::t_fa7402fee8dee2 32-38,47,58-62,146
+  s_18c0bc0593e2e4::t_fa7fa44ef96fa9 129-136,142-145
+  s_18c0bc0593e2e4::t_8fa19b2e021f14 147
+plumbing/format/packfile/parser_options.go
+  s_18c0bc0593e2e4::t_8a7c94c327540c 33-42
+  s_18c0bc0593e2e4::t_8debd1cc262e44 4-5
+plumbing/format/packfile/parser.go
+  s_18c0bc0593e2e4::t_b00de7a1ab34e9 85-92
+  s_18c0bc0593e2e4::t_2077de9354fb0f 350-355
+  s_18c0bc0593e2e4::t_dff099ddbc3237 140-154
+  s_18c0bc0593e2e4::t_c8c5af7ad432fa 219-223,227
+  s_18c0bc0593e2e4::t_e3c882e3bab86f 250
+  s_18c0bc0593e2e4::t_79e8b492829746 474-478
+plumbing/transport/fetch.go
+  s_18c0bc0593e2e4::t_afca663fbb76e3 71
+plumbing/format/packfile/progress_test.go
+  s_18c0bc0593e2e4::t_aacfa489fdf2d4 1-49
+plumbing/format/packfile/parser_test.go
+  s_18c0bc0593e2e4::t_f9def5cd8e7478 1000-1050
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c0413f0295e6ca34e4f3d631fe43828e22ce60a2",
+  "prompts": {},
+  "sessions": {
+    "s_18c0bc0593e2e4": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "8cd87c43-501c-40b3-8109-fbfe17fccc4e",
+        "model": "default"
+      },
+      "human_author": "Ujjwal pratik <64854179+ujjwal-p@users.noreply.github.com>"
+    }
+  }
+}
